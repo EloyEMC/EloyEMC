@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-<img src="https://camo.githubusercontent.com/6bd1a70a9fe4b97ca51c4baa8ebb66d37d3d2532721a50b6b6e2959d79b2b1f6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36662f4c6f676f5f6f665f547769747465722e737667" alt="GitHub">
+
 </div>
 
 ---
