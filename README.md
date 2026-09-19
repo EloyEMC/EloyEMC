@@ -5,17 +5,17 @@
 ### Specification & Projects Manager · Lighting · Technology · Business
 
 <p>
-  <a href="https://www.linkedin.com/in/eloymartinezemc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/EloyEMC">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/eloymarcu/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/eloy_emc">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  <a href="https://www.linkedin.com/in/eloymartinezemc/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/EloyEMC" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="22" height="22">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eloymarcu/" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="22" height="22">
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/eloy_emc" title="X">
+    <img src="https://cdn.simpleicons.org/x/111111" alt="X" width="22" height="22">
   </a>
 </p>
 
