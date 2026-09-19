@@ -80,8 +80,3 @@ Starter reutilizable para crear portfolios, blogs editoriales y wikis con Astro.
 
 Si querés hablar sobre un proyecto, una colaboración o una solución tecnológica, podés contactarme en [LinkedIn](https://www.linkedin.com/in/eloymartinezemc/).
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloyEMC&show_icons=true&theme=transparent&hide_border=true)
-
-</div>
