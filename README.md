@@ -6,16 +6,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/eloymartinezemc/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="22" height="22">
+    <img src="https://img.icons8.com/ios-filled/50/2EA3F2/linkedin.png" alt="LinkedIn" width="26" height="26">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/EloyEMC" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="22" height="22">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="26" height="26">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/eloymarcu/" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="22" height="22">
+    <img src="https://cdn.simpleicons.org/instagram/FF4F81" alt="Instagram" width="26" height="26">
   </a>&nbsp;&nbsp;
   <a href="https://x.com/eloy_emc" title="X">
-    <img src="https://cdn.simpleicons.org/x/111111" alt="X" width="22" height="22">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="26" height="26">
   </a>
 </p>
 
