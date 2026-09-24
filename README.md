@@ -72,7 +72,7 @@ Starter reutilizable para crear portfolios, blogs editoriales y wikis con Astro.
 - **Frontend:** Astro, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 - **Backend:** Python, Flask, APIs REST, PostgreSQL, SQLite
 - **Experiencias digitales:** Three.js, sitios editoriales, i18n
-- **Herramientas:** Git, GitHub, VS Code
+- **Herramientas:** Git, GitHub, VS Code [![Built with Gentle-AI](https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png)](https://github.com/Gentleman-Programming/gentle-ai)
 
 ## En qué estoy trabajando
 
